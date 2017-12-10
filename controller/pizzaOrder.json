@@ -1,0 +1,75 @@
+[
+    {
+        "pizza": [
+            {
+                "pizzaName": "Neapolitan",
+                "pizzaIngredients": "garlic powder",
+                "pizzaType": "Veg",
+                "pizzaPrice": "689",
+                "pizzaSize": "Regular"
+            },
+            {
+                "pizzaName": "Quattro",
+                "pizzaIngredients": "red pepper flakes",
+                "pizzaType": "Non-Veg",
+                "pizzaPrice": "952",
+                "pizzaSize": "Medium"
+            }
+        ],
+        "totalBill": 1312.8,
+        "name": "Akash Kalmegh",
+        "number": "1234567890",
+        "Address": "Nigdi"
+    },
+    {
+        "pizza": [
+            {
+                "pizzaName": "Sicilian",
+                "pizzaIngredients": "black olives",
+                "pizzaType": "Non-Veg",
+                "pizzaPrice": "441",
+                "pizzaSize": "Medium"
+            },
+            {
+                "pizzaName": "Tandoori",
+                "pizzaIngredients": "garlic powder",
+                "pizzaType": "Veg",
+                "pizzaPrice": "776",
+                "pizzaSize": "Regular"
+            },
+            {
+                "pizzaName": "Margherita",
+                "pizzaIngredients": "red pepper flakes",
+                "pizzaType": "Veg",
+                "pizzaPrice": "107",
+                "pizzaSize": "Medium"
+            }
+        ],
+        "totalBill": 1059.2,
+        "name": "Akash Kalmegh",
+        "number": "1234567890",
+        "Address": "Pune"
+    },
+    {
+        "pizza": [
+            {
+                "pizzaName": "Neapolitan",
+                "pizzaIngredients": "garlic powder",
+                "pizzaType": "Veg",
+                "pizzaPrice": "689",
+                "pizzaSize": "Regular"
+            },
+            {
+                "pizzaName": "Quattro",
+                "pizzaIngredients": "red pepper flakes",
+                "pizzaType": "Non-Veg",
+                "pizzaPrice": "952",
+                "pizzaSize": "Medium"
+            }
+        ],
+        "totalBill": 1312.8,
+        "name": "Akash Kalmegh",
+        "number": "9876541230",
+        "Address": "Pune"
+    }
+]

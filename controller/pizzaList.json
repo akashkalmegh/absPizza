@@ -1,0 +1,65 @@
+[
+    {
+      "pizzaName": "Sicilian",
+      "pizzaIngredients": "black olives",
+      "pizzaType": "Non-Veg",
+      "pizzaPrice": "441",
+      "pizzaSize": "Medium"
+    },
+    {
+      "pizzaName": "Neapolitan",
+      "pizzaIngredients": "garlic powder",
+      "pizzaType": "Veg",
+      "pizzaPrice": "689",
+      "pizzaSize": "Regular"
+    },
+    {
+      "pizzaName": "Quattro",
+      "pizzaIngredients": "red pepper flakes",
+      "pizzaType": "Non-Veg",
+      "pizzaPrice": "952",
+      "pizzaSize": "Medium"
+    },
+    {
+      "pizzaName": "Tandoori",
+      "pizzaIngredients": "garlic powder",
+      "pizzaType": "Veg",
+      "pizzaPrice": "776",
+      "pizzaSize": "Regular"
+    },
+    {
+      "pizzaName": "Margherita",
+      "pizzaIngredients": "red pepper flakes",
+      "pizzaType": "Veg",
+      "pizzaPrice": "107",
+      "pizzaSize": "Medium"
+    },
+    {
+      "pizzaName": "Greek",
+      "pizzaIngredients": "oregano",
+      "pizzaType": "Non-Veg",
+      "pizzaPrice": "879",
+      "pizzaSize": "Regular"
+    },
+    {
+      "pizzaName": "Capricciosa",
+      "pizzaIngredients": "garlic powder",
+      "pizzaType": "Non-Veg",
+      "pizzaPrice": "989",
+      "pizzaSize": "Medium"
+    },
+    {
+      "pizzaName": "Exotica",
+      "pizzaIngredients": "mozzarella and cheddar cheese",
+      "pizzaType": "Veg",
+      "pizzaPrice": "667",
+      "pizzaSize": "Medium"
+    },
+    {
+      "pizzaName": "Supreme",
+      "pizzaIngredients": "oregano",
+      "pizzaType": "Veg",
+      "pizzaPrice": "290",
+      "pizzaSize": "Medium"
+    }
+  ]
